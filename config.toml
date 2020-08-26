@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Grid Side"
 theme = "grid-side"
 copyright = "Copyright &#169; by Robert Rivera"
+publishDir = "docs"
 
 # The theme uses pagination for post, gallery, and project listings.
 #paginate = 12
